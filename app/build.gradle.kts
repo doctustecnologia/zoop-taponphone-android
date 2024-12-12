@@ -8,7 +8,7 @@ plugins {
 val localProperties = gradleLocalProperties(rootDir)
 
 android {
-    namespace = "com.zoop.sdk.taponphone.sample"
+    namespace = "com.doctus.zoop.taponphone"
     compileSdk = 34
 
     defaultConfig {
